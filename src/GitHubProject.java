@@ -4,6 +4,6 @@ public class GitHubProject {
         System.out.println("Hello Ozan");
         System.out.println("Hello Burak");
         System.out.println("Hello Logan");
-        System.out.println("Hello Osan");
+        System.out.println("Hello Oean");
     }
 }
